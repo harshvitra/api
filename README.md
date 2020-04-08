@@ -21,6 +21,7 @@ A volunteer-driven API for COVID-19 stats & patient tracing in India (Unofficial
 
 - [INDIA COVID-19 TRACKER](https://www.covid19india.org/) (Visualization)
 - [INDIA COVID-19 Google Map TRACKER](https://goo.gl/maps/U32Ex1gWQxmc6Aot8)
+- [MAHARASHTRA COVID-19 TRACKER](https://www.http://covid19mh.in/) (Visualization)
 
 ## Quick Links
 
